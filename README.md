@@ -24,4 +24,5 @@ The funder for this project will be a venture capital firm or angel investor loo
 
 Specifically, the clothing industry brands would use our clothes to produce their sustainable line of clothes. Clothing brands, to support sustainable and green initiatives do not use any products which would harm the environment, our project will deliver such clothes to them in return for payment. Apart from this the government would be interested in funding this initiative as part of solving a sustainability issue. Apart from this the project will get major endorsements from celebrities or influential people to support the green initiative. 
 
-![Uploading image.png…]()
+![image](https://github.com/aditinamdev/Online-Recycling-Service-Project-Management-/assets/49152076/bbb07fa1-7b1d-49aa-9b48-ea36f26dae9b)
+
